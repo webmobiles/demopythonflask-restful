@@ -2,11 +2,11 @@
        "Messages":[
                {
                        "From": {
-                               "Email": "youri.jedlinski@ext.bpifrance.fr"
+                               "Email": "test@domaintest.com"
                        },
                        "To": [
                                {
-                                       "Email": "cherdave@gmail.com"
+                                       "Email": "myuser@gmail.com"
                                }
                        ],
                        "Subject": "test subjet",
