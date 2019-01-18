@@ -1,0 +1,18 @@
+{
+      "Messages":[
+                {
+                        "From": {
+                                "Email": "youri.jedlinski@bpifrance.fr",
+                                "Name": "Me"
+                        },
+                        "To": [
+                                {
+                                        "Email": "cherdave@gmail.com",
+                                        "Name": "dave"
+                                }
+                        ],
+                        "Subject": "test 1",
+                        "TextPart": "test content email 1."
+                }
+     ]
+}
