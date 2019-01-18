@@ -1,16 +1,16 @@
 {
-       \"Messages\":[
+       "Messages":[
                {
-                       \"From\": {
-                               \"Email\": \"youri.jedlinski@ext.bpifrance.fr\"
+                       "From": {
+                               "Email": "youri.jedlinski@ext.bpifrance.fr"
                        },
-                       \"To\": [
+                       "To": [
                                {
-                                       \"Email\": \"cherdave@gmail.com\"
+                                       "Email": "cherdave@gmail.com"
                                }
                        ],
-                       \"Subject\": \"test 200\",
-                       \"TextPart\": \"test content email 1.\"
+                       "Subject": "test subjet",
+                       "TextPart": "test content"
                }
        ]
 }
